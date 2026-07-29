@@ -19,6 +19,7 @@ const skills = [
   'Room',
   'Retrofit',
   'Firebase',
+  'Supabase',
   'CI/CD',
 ]
 

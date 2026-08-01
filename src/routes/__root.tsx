@@ -7,7 +7,7 @@ export const Route = createRootRoute({
     meta: [
       { charSet: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { title: 'Kotlin Mobile Engineer · Portfolio' },
+      { title: 'Babaseun Odunoku · Portfolio' },
       { name: 'description', content: 'Portfolio of a Kotlin mobile developer creating polished Android experiences.' },
     ],
   }),
@@ -28,8 +28,8 @@ function RootDocument({ children }: { children: React.ReactNode }) {
             <Link to="/contact">Contact</Link>
           </nav>
           <div className="social-links">
-            <a href="https://github.com" target="_blank" rel="noreferrer" aria-label="GitHub"><Github size={18} /></a>
-            <a href="https://linkedin.com" target="_blank" rel="noreferrer" aria-label="LinkedIn"><Linkedin size={18} /></a>
+            <a href="https://github.com/BabaseunSylvester" target="_blank" rel="noreferrer" aria-label="GitHub"><Github size={18} /></a>
+            <a href="https://linkedin.com/babaseunsylvester" target="_blank" rel="noreferrer" aria-label="LinkedIn"><Linkedin size={18} /></a>
           </div>
         </header>
         {children}

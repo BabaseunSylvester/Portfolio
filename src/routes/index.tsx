@@ -115,7 +115,7 @@ function Home() {
                 <div className="project-art">
                   <div className="mini-phone">
                     <div className="mini-screen">
-                      {index === 0 ? <><span className="mini-pill" /><h3>Discover places<br />NearMe.</h3><div className="mini-map" /></> : <><span className="mini-logo">F</span><h3>Fontz<br />Rock your style.</h3><div className="mini-chart" /></>}
+                      {index === 0 ? <><span className="mini-pill" /><h3>Discover places<br />NearMe.</h3><div className="mini-map" /></> : <><span className="mini-logo">F</span><h3>Fontz.<br />Rock your style.</h3><div className="mini-chart" /></>}
                     </div>
                   </div>
                   <span className="project-number">0{index + 1}</span>

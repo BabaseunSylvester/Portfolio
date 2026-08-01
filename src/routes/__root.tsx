@@ -20,7 +20,7 @@ function RootDocument({ children }: { children: React.ReactNode }) {
       <head><HeadContent /></head>
       <body>
         <header className="site-header shell">
-          <Link to="/" className="brand" aria-label="Portfolio home"><span>K</span><b>mobile<br />engineer</b></Link>
+          <Link to="/" className="brand" aria-label="Portfolio home"><span>BO</span><b>mobile<br />engineer</b></Link>
           <nav aria-label="Main navigation">
             <Link to="/" activeOptions={{ exact: true }}>Home</Link>
             <Link to="/projects">Work</Link>
@@ -29,12 +29,12 @@ function RootDocument({ children }: { children: React.ReactNode }) {
           </nav>
           <div className="social-links">
             <a href="https://github.com/BabaseunSylvester" target="_blank" rel="noreferrer" aria-label="GitHub"><Github size={18} /></a>
-            <a href="https://linkedin.com/babaseunsylvester" target="_blank" rel="noreferrer" aria-label="LinkedIn"><Linkedin size={18} /></a>
+            <a href="https://www.linkedin.com/in/babaseunsylvester?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noreferrer" aria-label="LinkedIn"><Linkedin size={18} /></a>
           </div>
         </header>
         {children}
         <footer className="site-footer shell">
-          <div><span className="brand-mark">K</span><p>Designing calm<br />into every tap.</p></div>
+          <div><span className="brand-mark">BO</span><p>Designing calm<br />into every tap.</p></div>
           <p>© 2026 · Built with Kotlin energy</p>
           <Link to="/contact">Say hello ↗</Link>
         </footer>

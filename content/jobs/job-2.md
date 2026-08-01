@@ -1,10 +1,10 @@
 ---
-jobTitle: Senior Android Engineer
-company: Product Studio
+jobTitle: Freelance Android Developer
+company: Freelance
 location: Remote
-startDate: 2024-01-01
-summary: Led Android delivery for consumer products, established Compose patterns, and partnered closely with design to turn prototypes into resilient production experiences.
-tags: ["Kotlin", "Jetpack Compose", "Modularization", "Mentoring"]
+startDate: 2026-06-01
+summary: Build functional Android apps to client satisfaction, establish Compose patterns, and partner closely with design to turn prototypes into resilient production experiences.
+tags: ["Kotlin", "Jetpack Compose"]
 ---
 
-Focused on product quality, team velocity, and maintainable architecture.
+Focused on product quality, and maintainable architecture.

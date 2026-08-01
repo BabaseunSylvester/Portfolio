@@ -1,7 +1,7 @@
 ---
-title: "Nudge"
-description: "A focused habit app that turns small daily actions into clear, motivating progress without noisy gamification."
-tags: ["Kotlin", "Compose", "Coroutines", "Health Connect"]
+title: "Fontz"
+description: "A font styling app that transforms and displays normal text into a variety of Unicode font styles."
+tags: ["Kotlin", "Compose", "Unicode", "Font Styling"]
 ---
 
-Nudge combines expressive motion with predictable state management. Accessibility, battery efficiency, and meaningful reminders shaped the implementation.
+Fontz helps elevate your style.

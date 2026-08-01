@@ -1,9 +1,9 @@
 ---
-school: Institute of Technology
-summary: B.Tech in Computer Science
-startDate: 2017-07-01
-endDate: 2021-05-31
-tags: ["Computer Science", "Mobile Systems", "Human–Computer Interaction"]
+school: Federal University Otuoke
+summary: B.Eng in Petroleum and Gas Engineering
+startDate: 2019-01-21
+endDate: 2024-11-06
+tags: ["", "", ""]
 ---
 
-Built a strong foundation in software engineering, distributed systems, and interaction design.
+Built a strong foundation in analytical thinking, problem solving, and real-world knowledge application.

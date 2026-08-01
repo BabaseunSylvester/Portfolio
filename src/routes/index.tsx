@@ -98,9 +98,7 @@ function Home() {
             teams enjoy maintaining.
           </p>
           <div className="stats">
-            <div><strong>4+</strong><span>years shaping mobile products</span></div>
-            <div><strong>12</strong><span>apps shipped and improved</span></div>
-            <div><strong>4.8</strong><span>average store rating</span></div>
+            <div><strong>2+</strong><span>years shaping mobile products</span></div>
           </div>
         </div>
       </section>
@@ -117,7 +115,7 @@ function Home() {
                 <div className="project-art">
                   <div className="mini-phone">
                     <div className="mini-screen">
-                      {index === 0 ? <><span className="mini-pill" /><h3>Roam<br />freely.</h3><div className="mini-map" /></> : <><span className="mini-logo">N</span><h3>Make focus<br />a habit.</h3><div className="mini-chart" /></>}
+                      {index === 0 ? <><span className="mini-pill" /><h3>Discover places<br />NearMe.</h3><div className="mini-map" /></> : <><span className="mini-logo">F</span><h3>Fontz<br />Rock your style.</h3><div className="mini-chart" /></>}
                     </div>
                   </div>
                   <span className="project-number">0{index + 1}</span>

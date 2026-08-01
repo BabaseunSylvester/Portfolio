@@ -20,7 +20,7 @@ function RootDocument({ children }: { children: React.ReactNode }) {
       <head><HeadContent /></head>
       <body>
         <header className="site-header shell">
-          <Link to="/" className="brand" aria-label="Portfolio home"><span>BO</span><b>mobile<br />engineer</b></Link>
+          <Link to="/" className="brand" aria-label="Portfolio home"><span>BO</span><b>Babaseun<br />Odunoku</b></Link>
           <nav aria-label="Main navigation">
             <Link to="/" activeOptions={{ exact: true }}>Home</Link>
             <Link to="/projects">Work</Link>
